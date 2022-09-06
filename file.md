@@ -53,3 +53,7 @@ https://www.atlassian.com/ru/git/tutorials/what-is-git
 
 
 
+## 9. Слияние веток
+
+Для слияниях веток, необходимо перейти в ветку master и выполним команду **git merge <имя ветки(которую необходимо перенести в ветку master)>**.
+Например: git merge new_branch
